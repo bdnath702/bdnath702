@@ -11,7 +11,7 @@ I have been learning coding for 2 years. I have started with C . Currently I'm l
 * 🚀  I'm currently working on [Frontend Development](http://github.com/bdnath702/bdnath702)
 * 🧠  I'm learning HTML & CSS
 * 🤝  I'm open to collaborating on web design
-* ⚡  ## 😎 Fun Fact : I'm not your typical topper! 🎓 Ranked \*\*7th in all of Tripura\*\* in my 10th grade, but I’m more than just academics. I love \*\*cricket 🏏, coding 💻, and yes... I’ve got a way with words too! 😆\*\* Unlike most toppers who only hit the books, I believe in balancing studies, sports, and fun! 🚀
+* ⚡  ## 😎 Fun Fact : I'm not your typical topper! 🎓 I’m more than just academics. I love \*\*cricket 🏏, coding 💻, and yes... I’ve got a way with words too! 😆\*\* Unlike most toppers who only hit the books, I believe in balancing studies, sports, and fun! 🚀
 
 <a href="https://www.github.com/bdnath702" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bdnath702?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
