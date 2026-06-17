@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **bdnatheduknow27@gmail.com** For Collaboration, Projects, 
 - 🌱 **I’m currently learning:** Advanced React, TypeScript, and cloud-native DevOps practices.
 - 🤔 **I’m looking for help with:** Improving DevOps workflows, cloud deployment strategies, and application scalability.
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** bdnatheduknow27@gmail.com
+- 📫 **How to reach me:** aroraa09tg@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I also enjoy playing cricket and exploring new programming languages!
 
